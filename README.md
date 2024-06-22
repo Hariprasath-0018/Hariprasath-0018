@@ -3,7 +3,7 @@
 <br/>
 
 Information Technology Student
-<img align="right" height="290" width="430" src="[https://i.pinimg.com/564x/dd/80/a9/dd80a99119680fe49d5504c621f88e25.jpg](https://images.app.goo.gl/JSfA3NMgiEQh3gjg7)">
+<img align="right" height="290" width="430" src="[[https://i.pinimg.com/564x/dd/80/a9/dd80a99119680fe49d5504c621f88e25.jpg](https://images.app.goo.gl/JSfA3NMgiEQh3gjg7)](https://bsmedia.business-standard.com/_media/bs/img/article/2020-03/09/full/1583735326-3342.jpg)">
 - 🏬 Pursuing B.Tech(Information Technology)
 - 👀 I’m interested in App Development
 - 📈 I'm enthusiastic about learning new technologies and improving my skills
@@ -49,7 +49,7 @@ Information Technology Student
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
 
 
-### My Workspace Specification:
+
 
 
 
